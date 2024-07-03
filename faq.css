@@ -1,6 +1,6 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: #E8DAC9; /* linen */
+  background-color: #E8DAC9;
   margin: 0;
   padding: 0;
 }
@@ -9,7 +9,7 @@ body {
   max-width: 800px;
   margin: 50px auto;
   padding: 20px;
-  background-color: #FFFFFF; /* white */
+  background-color: #FFFFFF;
   border: 1px solid #ABA39B;
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -17,7 +17,7 @@ body {
 
 #faq h2 {
   text-align: center;
-  color: #193F6B; /* blue */
+  color: #193F6B;
   margin-bottom: 20px;
 }
 
@@ -33,7 +33,7 @@ body {
 
 .faq-item {
   margin-bottom: 20px;
-  background-color: #FFFFFF; /* white */
+  background-color: #FFFFFF; 
   border: 1px solid #ABA39B;
   border-radius: 5px;
   padding: 15px;
